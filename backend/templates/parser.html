@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+{% import 'macroses/product_card_small.html' as macros %}
+
+{% block title %}
+    Content
+{% endblock %}
+
+{% block content %}
+    <div class="parser">
+        <button class="parser-button">Get</button>
+        <button class="parser-button">Edit</button>
+        <button class="parser-button">Delete</button>
+        <input id="upload-file" type="file">
+    </div>
+    <div class="categories-list">
+        <ul>
+            <li>Ножи</li>
+            <li>Мультитулы</li>
+            <li>Фонари</li>
+        </ul>
+    </div>
+    <div class="product-list">
+        {% for product in products %}
+            {{ macros.product_card_small(product) }}
+        {% endfor %}
+    </div>
+{% endblock %}
+

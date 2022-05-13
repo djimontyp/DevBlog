@@ -1,0 +1,16 @@
+{% macro product_card_small(product) %}
+    <div class="product-card-small">
+        <div class="product-card-image">
+            <img alt="" src="{{ product.src }}">
+        </div>
+        <div class="product-card-title">{{ product.title }}</div>
+        <div class="product-card-like">
+            <button class="product-card-like">Like</button>
+        </div>
+        <div class="product-card-price">{{ product.price }}</div>
+        <div class="product-card-article">{{ product.article }}</div>
+        <div class="product-card-buy">
+            <button class="product-card-small-button">Buy</button>
+        </div>
+    </div>
+{% endmacro %}

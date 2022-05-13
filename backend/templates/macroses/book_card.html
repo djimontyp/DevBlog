@@ -1,0 +1,10 @@
+{% macro book_card(book) %}
+    <div class="book-card">
+        <div class="book-image">
+            <img alt="book_image" src="{{ book.image }}">
+        </div>
+        <div class="book-title">{{ book.title }}</div>
+        <div class="book-total-pages">{{ book.total_pages }}</div>
+        <div class="book-current-page">{{ book.current_page }}</div>
+    </div>
+{% endmacro %}

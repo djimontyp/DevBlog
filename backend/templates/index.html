@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{% block title %}
+    News
+{% endblock %}
+
+{% block content %}
+    <div class="text-block">
+        <div id="text-block-divs">
+            <div id="text-block-div-1">
+                <div id="block-1" class="paragraph">{{ paragraphs[0] }}</div>
+                <br>
+                <div id="block-2" class="paragraph">{{ paragraphs[1] }}</div>
+                <br>
+                <div id="block-3" class="paragraph">{{ paragraphs[2] }}</div>
+                <br>
+            </div>
+            <div id="text-block-div-2">
+                <div class="paragraph">
+                    {{ long_right }}
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}

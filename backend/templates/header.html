@@ -1,0 +1,38 @@
+{% block header %}
+  <div class="div_header_menu">
+    <ul class="left_header_menu">
+      <li>
+        <img class="header-icons" src="{{ url_for('static', path='/images/myself.svg') }}"
+             alt="spotify_img">
+        <a href="{{ url_for('homepage') }}">About me</a>
+      </li>
+      <li>
+        <img class="header-icons" src="{{ url_for('static', path='/images/parsers.svg') }}"
+             alt="spotify_img">
+        <a href="{{ url_for('parsers') }}">Parsers</a>
+      </li>
+      <li>
+        <img class="header-icons" src="{{ url_for('static', path='/images/books.svg') }}"
+             alt="books_img">
+        <a href="{{ url_for('books') }}">Books</a>
+      </li>
+      <li>
+        <img class="header-icons" src="{{ url_for('static', path='/images/spotify.svg') }}"
+             alt="spotify_img">
+        <a href="{{ url_for('spotify') }}">Spotify</a>
+      </li>
+    </ul>
+    <ul class="right_header_menu">
+      <li>
+        <img class="header-icons" src="{{ url_for('static', path='/images/openapi.svg') }}"
+             alt="openapi_img">
+        <a href="{{ url_for('swagger_ui_html') }}">OpenAPI</a>
+      </li>
+      <li>
+        <img class="header-icons" src="{{ url_for('static', path='/images/redoc.svg') }}"
+             alt="redoc_img">
+        <a href="{{ url_for('redoc_html') }}">ReDoc</a>
+      </li>
+    </ul>
+  </div>
+{% endblock %}

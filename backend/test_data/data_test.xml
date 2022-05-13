@@ -1,0 +1,521 @@
+<yml_catalog date="2021-07-04 12:24" text="1">
+    <shop>
+        <name>Компания Атлантмаркет</name>
+        <company>Компания Атлантмаркет</company>
+        <url>https://atlantmarket.com.ua</url>
+        <currencies>
+            <currency id="UAH" rate="1"/>
+        </currencies>
+        <categories>
+            <category id="1906" portal_id="14200394">Мультитулы</category>
+            <category id="1908" portal_id="14200394">Мультитулы</category>
+            <category id="1909" portal_id="14200394">Мультитулы</category>
+            <category id="1910" portal_id="14200394">Мультитулы</category>
+            <category id="1911" portal_id="380230">Чехлы для телефонов, mp3 плееров</category>
+            <category id="1913" portal_id="240429">Лопаты туристические</category>
+            <category id="1914" portal_id="181614">Масла и смазки для оружия</category>
+            <category id="1917" portal_id="181010">Ножи для охоты, рыбалки и туризма</category>
+            <category id="1919" portal_id="181010">Ножи для охоты, рыбалки и туризма</category>
+            <category id="1920" portal_id="181010">Ножи для охоты, рыбалки и туризма</category>
+            <category id="1921" portal_id="181010">Ножи для охоты, рыбалки и туризма</category>
+            <category id="1922" portal_id="181010">Ножи для охоты, рыбалки и туризма</category>
+            <category id="1923" portal_id="181010">Ножи для охоты, рыбалки и туризма</category>
+            <category id="1924" portal_id="181010">Ножи для охоты, рыбалки и туризма</category>
+            <category id="1925" portal_id="181010">Ножи для охоты, рыбалки и туризма</category>
+            <category id="1927" portal_id="181010">Ножи для охоты, рыбалки и туризма</category>
+            <category id="1929" portal_id="181010">Ножи для охоты, рыбалки и туризма</category>
+            <category id="1930" portal_id="181010">Ножи для охоты, рыбалки и туризма</category>
+            <category id="1931" portal_id="181010">Ножи для охоты, рыбалки и туризма</category>
+            <category id="1935" portal_id="30110">Спортивные носки, гетры</category>
+            <category id="1936" portal_id="182202">Тактические перчатки</category>
+            <category id="1937" portal_id="32710">Шапки</category>
+            <category id="1940" portal_id="15230433">Точилки для ножей</category>
+            <category id="1941" portal_id="15230433">Точилки для ножей</category>
+            <category id="1943" portal_id="390505">Аксессуары для переносных фонарей</category>
+            <category id="1945" portal_id="342402">Велосипедные фонари и отражатели</category>
+            <category id="1946" portal_id="39050201">Кемпинговые фонари</category>
+            <category id="1947" portal_id="150410">Фонари ручные и налобные</category>
+            <category id="1948" portal_id="150410">Фонари ручные и налобные</category>
+            <category id="1952" portal_id="410201">Зарядные устройства для аккумуляторов</category>
+            <category id="1953" portal_id="150410">Фонари ручные и налобные</category>
+            <category id="1955" portal_id="390505">Аксессуары для переносных фонарей</category>
+            <category id="1956" portal_id="410201">Зарядные устройства для аккумуляторов</category>
+            <category id="1959" portal_id="15230433">Точилки для ножей</category>
+            <category id="1963" portal_id="14200301">Топоры</category>
+            <category id="1964" portal_id="240430">Туристические инструменты, общее</category>
+            <category id="1965" portal_id="181032">Рыболовные инструменты</category>
+            <category id="1966" portal_id="301917">Тактические ручки, куботаны, явары</category>
+            <category id="1967" portal_id="181615">Сошки и упоры для оружия</category>
+            <category id="1975" portal_id="15230433">Точилки для ножей</category>
+            <category id="1980" portal_id="14200394">Мультитулы</category>
+            <category id="1981" portal_id="181010">Ножи для охоты, рыбалки и туризма</category>
+            <category id="1987" portal_id="15230410">Кухонные ножи и подставки</category>
+            <category id="1993" portal_id="15230433">Точилки для ножей</category>
+            <category id="1994" portal_id="1440201">Чемоданы, сумки, рюкзаки, общее</category>
+            <category id="2002" portal_id="181010">Ножи для охоты, рыбалки и туризма</category>
+            <category id="2003" portal_id="15230433">Точилки для ножей</category>
+            <category id="2004" portal_id="181010">Ножи для охоты, рыбалки и туризма</category>
+            <category id="2072" portal_id="181010">Ножи для охоты, рыбалки и туризма</category>
+            <category id="2073" portal_id="240430">Туристические инструменты, общее</category>
+            <category id="2074" portal_id="240411">Рюкзаки туристические</category>
+            <category id="2076" portal_id="240424">Туристическая посуда, общее</category>
+            <category id="2078" portal_id="1531">Термосы</category>
+            <category id="2080" portal_id="240409">Палатки и тенты туристические</category>
+            <category id="2081" portal_id="240407">Спальные мешки</category>
+            <category id="2082" portal_id="240405">Карематы и сидушки</category>
+            <category id="2083" portal_id="240458">Туристические фильтры для воды</category>
+            <category id="2084" portal_id="13240602">Плиты и горелки туристические</category>
+            <category id="2085" portal_id="240430">Туристические инструменты, общее</category>
+            <category id="2086" portal_id="240423">Туристическая складная мебель, общее</category>
+            <category id="2087" portal_id="13240602">Плиты и горелки туристические</category>
+            <category id="2088" portal_id="240424">Туристическая посуда, общее</category>
+            <category id="2089" portal_id="82104">Средства для стирки</category>
+            <category id="2116" portal_id="240424">Туристическая посуда, общее</category>
+            <category id="2117" portal_id="13240602">Плиты и горелки туристические</category>
+            <category id="2118" portal_id="240423">Туристическая складная мебель, общее</category>
+            <category id="2121" portal_id="181615">Сошки и упоры для оружия</category>
+            <category id="2123" portal_id="300507">Дубинки</category>
+            <category id="2124" portal_id="240429">Лопаты туристические</category>
+            <category id="2129" portal_id="1531">Термосы</category>
+            <category id="2130" portal_id="1531">Термосы</category>
+            <category id="2131" portal_id="1531">Термосы</category>
+            <category id="2132" portal_id="1531">Термосы</category>
+            <category id="2133" portal_id="1531">Термосы</category>
+            <category id="2134" portal_id="1531">Термосы</category>
+            <category id="2135" portal_id="">BergHOFF посуд</category>
+            <category id="2136" portal_id="">BergHOFF грилі</category>
+            <category id="2137" portal_id="">Broil King грилі та аксесуари</category>
+            <category id="2138" portal_id="">Grill Pro набори для копчення</category>
+            <category id="2139" portal_id="">Rosle грилі</category>
+            <category id="2141" portal_id="32208">Спецобувь</category>
+            <category id="2142" portal_id="33915">Дождевики</category>
+            <category id="2143" portal_id="240412">Наборы туристической посуды</category>
+            <category id="2144" portal_id="152401">Армейские спецсумки и рюкзаки</category>
+            <category id="2148" portal_id="">Kovea газові горілки</category>
+            <category id="2152" portal_id="">Kovea аксесуари</category>
+            <category id="2153" portal_id="">Kovea газові лампи</category>
+            <category id="2155" portal_id="">Kovea газові обігрівачі</category>
+            <category id="2157" portal_id="">Kovea газові плитки</category>
+            <category id="2159" portal_id="">Kovea газові різаки</category>
+            <category id="2160" portal_id="">Перцові балончики</category>
+            <category id="2163" portal_id="15230433">Точилки для ножей</category>
+            <category id="2164" portal_id="15230433">Точилки для ножей</category>
+            <category id="2165" portal_id="15230433">Точилки для ножей</category>
+            <category id="2166" portal_id="15230433">Точилки для ножей</category>
+            <category id="2168" portal_id="">Opinel ножі</category>
+            <category id="2170" portal_id="1531">Термосы</category>
+            <category id="2171" portal_id="1531">Термосы</category>
+            <category id="2172" portal_id="1531">Термосы</category>
+            <category id="2173" portal_id="">Ліхтарі для дайвінгу Fenix</category>
+            <category id="2174" portal_id="">Індустріальні ліхтарі Fenix</category>
+            <category id="2175" portal_id="">Мисливські ліхтарі Fenix</category>
+            <category id="2176" portal_id="">Набори Fenix</category>
+            <category id="2177" portal_id="">Повсякденні ліхтарі Fenix</category>
+            <category id="2178" portal_id="">Пошуково-рятувальні ліхтарі Fenix</category>
+            <category id="2179" portal_id="">Тактичні ліхтарі Fenix</category>
+            <category id="2181" portal_id="">Ножі з фіксованим клинком Cold Steel</category>
+            <category id="2182" portal_id="">Ножі складні Cold Steel</category>
+            <category id="2183" portal_id="">Spyderco ножі</category>
+            <category id="2185" portal_id="">CamelBak фляги</category>
+            <category id="2186" portal_id="">CamelBak термостакани і термофляги</category>
+            <category id="2188" portal_id="">Boker Plus тактичні ручки</category>
+            <category id="2190" portal_id="">Boker Plus ножі</category>
+            <category id="2191" portal_id="">Magnum by Boker ножі</category>
+            <category id="2192" portal_id="">Risam точила і каміння</category>
+            <category id="2193" portal_id="">KingCamp посуд</category>
+            <category id="2194" portal_id="">KingCamp рюкзаки</category>
+            <category id="2195" portal_id="">KingCamp гамаки</category>
+            <category id="2196" portal_id="">KingCamp меблі</category>
+            <category id="2197" portal_id="">KingCamp намети</category>
+            <category id="2198" portal_id="">KingCamp спальники</category>
+            <category id="2199" portal_id="">KingCamp туристичні килимки</category>
+            <category id="2200" portal_id="">KingCamp шезлонги</category>
+            <category id="2202" portal_id="">Kershaw інструменти</category>
+            <category id="2203" portal_id="">Kershaw ножі</category>
+            <category id="2204" portal_id="">Kershaw ловилки</category>
+            <category id="2205" portal_id="">BergHOFF термоси</category>
+            <category id="2233" portal_id="">WorkSharp ручні точила</category>
+            <category id="2238" portal_id="">Велосипедні ліхтарі</category>
+            <category id="2239" portal_id="">Велофари</category>
+        </categories>
+        <offers>
+            <offer id="44134">
+                <url>https://atlantmarket.com.ua/likhtar-ruchniy-fenix-tk41-c-l2u2/</url>
+                <price>2240</price>
+                <currencyId>UAH</currencyId>
+                <barcode>TK41C</barcode>
+                <categoryId>2178</categoryId>
+                <picture>https://atlantmarket.com.ua/upload/iblock/17e/12284.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/25b/12282.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/3a9/12283.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/046/23238.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/77f/23239.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/79e/23240.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/ee6/23241.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/9c8/23242.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/a67/23243.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/18c/23244.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/f77/23245.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/ced/23246.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/e0c/23247.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/32e/23249.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/5bb/23250.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/3cb/23251.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/42f/23252.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/44e/23248.jpg</picture>
+                <name>Ліхтар ручний Fenix TK41 C-L2U2</name>
+                <description>
+                    <![CDATA[ Опис Fenix TK41C: Ліхтар Fenix TK41C надзвичайно широко використовується, адже йому доступний великий набір різних за характеристиками робочих режимів. У цю модель інтегровані три надійних світлодіода, термін роботи кожного з яких складає не менше п'ятдесяти тисяч годин. Це діоди червоного, білого і синього кольору. Нижче представлені значення яскравості і тривалості роботи ліхтаря з урахуванням використання восьми акумуляторів АА на 2500 маг. Turbo: білий промінь яскравістю в 1000 люмен, ліхтарик працює дві з половиною години; High: білий промінь на 350 люмен, тривалість роботи — 10 годин 20 хвилин; Mid: 100 люмен білого світла, тривалість роботи — 39 годин 45 хвилин; Low: яскравість променя — 15 люмен, час до повної розрядки — 240 годин; Strobe: 1000 люмен яскравості спалахів з інтенсивністю 57600 cd; Red: червоний промінь яскравістю 25 люмен, робота ліхтаря протягом 9 з половиною годин; Blue: синій світло яскравістю 30 люмен, тривалість роботи — 5 з половиною годин; Red flash: червоне світло, миготливий яскравістю 25 люмен; Red/Blue flash: блимає червоним (25 люмен) і синім (30 люмен) світло. Велика кількість варіантів освітлення дозволяє використовувати Fenix TK41C під час відпочинку на природі з наметами, на риболовлі чи полюванні, для занять екстремальними видами спорту. Проте вибрати потрібний режим кожен користувач зможе максимально швидко. За керування білими і кольоровими світлодіодами відповідають окремі кнопки. Встановлена яскравість основного білого діода вноситься в пам'ять ліхтаря. Обидві кнопки блокуються, якщо потримати їх натиснутими одночасно. Корисним для користувача властивістю ліхтарі Fenix TK41C є можливість перевірки заряду за допомогою вбудованого індикатора. До речі, дана модель у стані працювати не тільки з повним комплектом з восьми елементів живлення, але і з половиною цієї кількості. Природно, при цьому зменшиться час роботи ліхтарика. Fenix TK41C відноситься до тактичної серії, а тому виробники зробили його максимально надійним і невимогливим до умов експлуатації. Ліхтар не пропускає воду всередину корпусу завдяки відмінній підгонці окремих частин оболонки. Рівень його герметичності відповідає стандарту з кодуванням IPX-8. Крім того, матеріалом корпусу є анодований алюміній. Він досить легкий, але дає більшу міцність і захист від механічних поломок. Особливості: 1000 люмен яскравості променя білого світла; допоміжні світлодіоди червоного і синього кольору; дев'ять режимів роботи; дальність освітлення становить 480 метрів; зручне управління з можливістю блокування кнопок; ліхтар працює на акумуляторах розміру АА; можливість установки половинного комплекту батарей; корпус з легкого металу; загартована лінза; високий рівень водостійкості. Гарантії: Виробники дають гарантію на ліхтар Fenix TK41C тривалістю п'ять років з дати, коли була здійснена покупка. Завантажити інструкцію ]]>
+                </description>
+                <vendor>Fenix</vendor>
+                <param name="Вес">280 г</param>
+                <param name="Производитель">Fenix</param>
+                <param name="Водонепроницаемость">IPX-8</param>
+                <param name="Дальность м.">480 м</param>
+                <param name="Диаметр">40 мм</param>
+                <param name="Диаметр головной части">61.5 мм</param>
+                <param name="Длина">197 мм</param>
+                <param name="Элементы питания">AA</param>
+                <param name="Цвет светодиода">білий / жовтий, червоний, синій</param>
+                <param name="Комплектация">Ліхтар, чохол, кільце ущільнювача, ремінець на руку, інструкція, гарантія
+                </param>
+                <param name="Режимы работы">6</param>
+                <param name="Световой поток лм">1000</param>
+                <param name="Светодиод">Cree XM-L2 U2</param>
+                <param name="Тип">надпотужний, тактичний, прожектор</param>
+            </offer>
+            <offer id="44135">
+                <url>https://atlantmarket.com.ua/likhtar-ruchniy-fenix-e35-ue-cree-xm-l2-u2/</url>
+                <price>1490</price>
+                <currencyId>UAH</currencyId>
+                <barcode>E35UE2016</barcode>
+                <categoryId>2177</categoryId>
+                <picture>https://atlantmarket.com.ua/upload/iblock/3eb/12302.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/9d5/12303.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/048/12304.jpg</picture>
+                <name>Ліхтар ручний Fenix E35 UE Cree XM-L2 U2</name>
+                <description>
+                    <![CDATA[ Ліхтар Fenix E35UE (2016) Cree XM-L 2 U2 ANSI Турбо Максимальний Середній Мінімальний ECO Стробоскоп SOS Яскравість 1000 люмен 450 люмен 150 люмен 50 люмен 8 люмен 1000 люмен 150 люмен Час роботи 1 годину 50 хвилин 4 години 11 годин 50 хвилин 42 години 30 хвилин 150 годин - - Дистанція 160 м Ударостійкість 1 м Водонепроникність IPX8, до 2-х метрів Розміри 122 мм (довжина) 24 мм (діаметр) Вага 72 г (без елементів живлення) Комплектація Ліхтар, ремінець на руку, ущільнююче кільце, інструкція, гарантія. Елементи живлення 18650 Тип відбивача Гладкий Матеріал корпусу Авіаційний алюміній Тип оптичної системи Відбивач Покриття корпусу Анодування III ступеня Упаковка Картонна подарункова коробка Включення Кнопка на корпусі Перемикання режимів Кнопкою на корпусі Опис Fenix E35UE (2016) Cree XM-L 2 U2: Модель Fenix E35UE 2016 може використовуватися в разнообразныхх ситуаціях, адже цей ліхтар має великий наборів режимів з різною яскравістю, а також, що використовуються для подачі сигналів. Діапазон яскравості становить для нього 8-1000 люмен. Основою оптичної системи виступає світлодіод XM-L 2 U2 від одного з найбільш відомих виробників подібної продукції — компанії Cree. Його перевага становить не тільки яскравість, а й довговічність. Кожен такий діод в змозі забезпечувати освітлення протягом 50 000 годин. Нижче вказані характеристики роботи E35UE 2016 в кожному режимі з урахуванням того, що він працює на одному фірмовому акумулятор 18650 виробництва Fenix, який вміщує 3400 маг заряду. Turbo – найбільш потужний світло на 1000 люмен підтримується протягом 1 години 50 хвилин; High – ліхтарик світить з яскравістю 450 люмен і працює протягом 4 годин; Mid – освітлення на рівні 150 люмен протягом 11 годин 50 хвилин; Low – яскравість променя 50 люмен і тривалість роботи 42 з половиною години; Eco – освітлення яскравістю 8 люмен при можливості працювати 150 годин; Strobe – інтенсивний сигнальний режим на 1000 люмен яскравості; SOS – миготливий світло для подачі сигналів з яскравістю 150 люмен. Крім вже зазначених акумулятора 18650, E35UE 2016 в змозі використовувати літієві батарейки іншого популярного формату CR123A. Їх у кожному комплекті має бути дві. При їх установці, користувачі повинні враховувати полярність, однак від переполюсовки ліхтар повністю захищений. Також в E35UE 2016 інтегровані механізми запобігання переразрядки акумулятора, система інтелектуальної пам'яті і драйвер постійної яскравості. Ліхтар легко управляється двома кнопками з гумовими накладками, винесеними ближче до головної частини. Вони блокуються в тому випадку, якщо необхідно запобігти випадкове включення ліхтаря. Також зручно, що E35UE 2016 сумісний з багатьма фірмовими аксесуарами, які розширюють функціональність ліхтаря, наприклад, фільтрами і кріпленнями на велосипедний кермо. Модель E35UE 2016 можна використовувати в ролі похідного ліхтаря, незважаючи на погану погоду. Його корпус — герметичний і абсолютно не пропускає воду всередину. Зроблений з алюмінію, на поверхню якого нанесений шар анодування і накатка, яка не дає ліхтаря случчайно вислизнути з рук. Особливості: 1000 люмен яскравості портативного освітлення; надійний світлодіод XM-L 2 U2 від бренду Cree; сім режимів роботи; використання одного стандартного акумулятора 18650; можливість встановити батарейки CR123A; захист від замикання і переполюсовки батарейок; корпус з сплаву на базі алюмінію; антиковзка накатка на корпусі; високий рівень захисту від високої вологості; дальність освітлення — 160 метрів. Гарантія: 60 місяців надається гарантія до кожного ліхтаря моделі Fenix E35UE 2016. Завантажити інструкцію ]]>
+                </description>
+                <vendor>Fenix</vendor>
+                <param name="Вес">72 г</param>
+                <param name="Производитель">Fenix</param>
+                <param name="Водонепроницаемость">IPX-8</param>
+                <param name="Дальность м.">160 м</param>
+                <param name="Диаметр">24 мм</param>
+                <param name="Длина">122 мм</param>
+                <param name="Элементы питания">18650</param>
+                <param name="Цвет светодиода">білий / жовтий</param>
+                <param name="Комплектация">Ліхтар, темляк, кільце ущільнювача, гарантія, інструкція</param>
+                <param name="Режимы работы">5</param>
+                <param name="Светодиод">Cree XM-L2 U2</param>
+                <param name="Тип">кишеньковий</param>
+            </offer>
+            <offer id="44136" available="true">
+                <url>https://atlantmarket.com.ua/multitul-multi-tool-ganzo-g203/</url>
+                <price>533</price>
+                <currencyId>UAH</currencyId>
+                <barcode>G203</barcode>
+                <portal_category_id>14200394</portal_category_id>
+                <categoryId>1906</categoryId>
+                <picture>https://atlantmarket.com.ua/upload/iblock/21a/52752.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/067/2.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/d67/3.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/434/4.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/105/5.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/09a/6.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/184/7.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/3aa/8.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/99c/9.jpg</picture>
+                <name>Мультитул Multi Tool Ganzo G203</name>
+                <description>
+                    <![CDATA[ Опис Мультитула Ganzo G203: Модель Ganzo G203 представляє з себе повноцінні плоскогубці з потужними кусачками і можливістю щільного захоплення круглих предметів, а також цілим комплектом додаткових інструментів всередині рукояток. В якості матеріалу для мультитула цій моделі використовується сталь 440С. Вона відноситься до розряду нержавіючих сплавів з хорошими показниками твердості. Всі елементи мультитула вкриті додатковим шаром чорної порошкової фарби, яка також захищає метал від корозії. Це сучасна і дуже стійке покриття, яке не стирається в процесі використання інструментів. А матовий чорний мультитул виглядає дійсно стильно і дуже презентабельно. З додаткових інструментів, в моделі Ganzo G203 присутні пила, серрейторный і звичайний ніж, мініатюрні ножиці, відкривачка, шило, маленькі ножиці, тримач для змінних біт. Всі змінні насадки для викруток зберігаються в одному загальному органайзері і закріплюються на тримачі за допомогою магнітного перехідника. Мультитул разом з бітами зберігається в щільному чохлі з нейлону, який закривається на кнопку, легко стирається в разі необхідності, швидко висихає, якщо намокне. Особливості: повнорозмірні плоскогубці; є функція кусачок; загальна кількість інструментів — 24; використовується сталь 440С; мультитул переважати 217 грам; розмір складеного інструменту — 10,5 см; комплект змінних біт з магнітним утримувачем; зручний нейлоновий чохол. Гарантія: Виробники дають покупцям моделі Ganzo G203 гарантію на один рік. ]]>
+                </description>
+                <warranty>1 рік</warranty>
+                <vendor>Ganzo</vendor>
+                <param name="Вес">217 г</param>
+                <param name="Производитель">Ganzo</param>
+                <param name="Гарантия">1 рік</param>
+                <param name="Количество функций">пила, серрейторний і звичайний ніж, мініатюрні ножиці, відкривачка,
+                    шило, маленькі ножиці, тримач для змінних біт
+                </param>
+                <param name="Цвет мультитула">синій</param>
+                <param name="Цвет мультитула">блакитний</param>
+                <param name="Размер в раскрытом состоянии">165 мм</param>
+                <param name="Размер в сложенном состоянии">105 мм</param>
+                <param name="Тип мультитула">повнорозмірний</param>
+                <param name="Чехол / ножны">Є</param>
+            </offer>
+            <offer id="44137" available="true">
+                <url>https://atlantmarket.com.ua/nizh-skladniy-ganzo-g624m-bl/</url>
+                <price>81</price>
+                <currencyId>UAH</currencyId>
+                <barcode>G624M-BL</barcode>
+                <portal_category_id>181010</portal_category_id>
+                <categoryId>1919</categoryId>
+                <picture>https://atlantmarket.com.ua/upload/iblock/02b/13091.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/791/13092.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/21c/13104.jpg</picture>
+                <name>Ніж складний Ganzo G624M-BL</name>
+                <description>
+                    <![CDATA[ Опис Ganzo G624: Ganzo G624M не претендує на роль основного ножа для туриста або рибака. Він має і свої переваги. По-перше, це компактність. У складеному вигляді довжина ножа дорівнює всього 6 див. По-друге, оригінальний дизайн даної моделі привертає до себе увагу і робить його прекрасним аксесуаром, який можна носити з собою на всяк випадок. Адже зовні корпус ножа нагадує патрон діаметром 2 див. Частину пластикової рукоятки навіть пофарбована під метал, що додатково збільшує подібність. Сам клинок легко дістається з рукоятки, коли в цьому виникає необхідність. Його довжина дорівнює 42 мм. Лезо рівне заточене і дуже якісно відполірована. Незважаючи на невеликі розміри, Ganzo G624M може виявитися дуже корисним в самих різних ситуаціях на природі або в місті. Особливості: добре заточене лезо; відполірована сталь; розмір клинка — 42 мм; рукоятка з пластику; оригінальний дизайн; чотири варіанти кольору; зручна конструкція. ]]>
+                </description>
+                <warranty>1 рік</warranty>
+                <vendor>Ganzo</vendor>
+                <param name="Вид ножа">кишеньковий</param>
+                <param name="Производитель">Ganzo</param>
+                <param name="Гарантия">1 рік</param>
+                <param name="Длина клинка">42 мм</param>
+                <param name="Общая длина">102 мм</param>
+                <param name="Цвет клинка">хром</param>
+                <param name="Цвет рукоятки">чорний, &quot;червоний, бордовий&quot;, зелений, &quot;синій, блакитний&quot;</param>
+                <param name="Тип замка">Liner Lock</param>
+                <param name="Тип заточки">прямий</param>
+                <param name="Тип ножа">складаний</param>
+                <param name="Типы складных ножей">з фіксацією</param>
+            </offer>
+            <offer id="44138" available="true">
+                <url>https://atlantmarket.com.ua/nizh-skladniy-ganzo-g624m-gr/</url>
+                <price>81</price>
+                <currencyId>UAH</currencyId>
+                <barcode>G624M-GR</barcode>
+                <portal_category_id>181010</portal_category_id>
+                <categoryId>1919</categoryId>
+                <picture>https://atlantmarket.com.ua/upload/iblock/52a/13093.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/8b1/13094.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/47b/13104.jpg</picture>
+                <name>Ніж складний Ganzo G624M-GR</name>
+                <description>
+                    <![CDATA[ Опис Ganzo G624: Ganzo G624M не претендує на роль основного ножа для туриста або рибака. Він має і свої переваги. По-перше, це компактність. У складеному вигляді довжина ножа дорівнює всього 6 див. По-друге, оригінальний дизайн даної моделі привертає до себе увагу і робить його прекрасним аксесуаром, який можна носити з собою на всяк випадок. Адже зовні корпус ножа нагадує патрон діаметром 2 див. Частину пластикової рукоятки навіть пофарбована під метал, що додатково збільшує подібність. Сам клинок легко дістається з рукоятки, коли в цьому виникає необхідність. Його довжина дорівнює 42 мм. Лезо рівне заточене і дуже якісно відполірована. Незважаючи на невеликі розміри, Ganzo G624M може виявитися дуже корисним в самих різних ситуаціях на природі або в місті. Особливості: добре заточене лезо; відполірована сталь; розмір клинка — 42 мм; рукоятка з пластику; оригінальний дизайн; чотири варіанти кольору; зручна конструкція. ]]>
+                </description>
+                <warranty>1 рік</warranty>
+                <vendor>Ganzo</vendor>
+                <param name="Вид ножа">кишеньковий</param>
+                <param name="Производитель">Ganzo</param>
+                <param name="Гарантия">1 рік</param>
+                <param name="Длина клинка">42 мм</param>
+                <param name="Общая длина">102 мм</param>
+                <param name="Цвет клинка">хром</param>
+                <param name="Цвет рукоятки">чорний, &quot;червоний, бордовий&quot;, зелений, &quot;синій, блакитний&quot;</param>
+                <param name="Тип замка">Liner Lock</param>
+                <param name="Тип заточки">прямий</param>
+                <param name="Тип ножа">складаний</param>
+                <param name="Типы складных ножей">з фіксацією</param>
+            </offer>
+            <offer id="44139" available="true">
+                <url>https://atlantmarket.com.ua/nizh-skladniy-ganzo-g624m-rd/</url>
+                <price>81</price>
+                <currencyId>UAH</currencyId>
+                <barcode>G624M-RD</barcode>
+                <portal_category_id>181010</portal_category_id>
+                <categoryId>1919</categoryId>
+                <picture>https://atlantmarket.com.ua/upload/iblock/5c4/13095.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/c0b/13096.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/c1a/13104.jpg</picture>
+                <name>Ніж складний Ganzo G624M-RD</name>
+                <description>
+                    <![CDATA[ Опис Ganzo G624: Ganzo G624M не претендує на роль основного ножа для туриста або рибака. Він має і свої переваги. По-перше, це компактність. У складеному вигляді довжина ножа дорівнює всього 6 див. По-друге, оригінальний дизайн даної моделі привертає до себе увагу і робить його прекрасним аксесуаром, який можна носити з собою на всяк випадок. Адже зовні корпус ножа нагадує патрон діаметром 2 див. Частину пластикової рукоятки навіть пофарбована під метал, що додатково збільшує подібність. Сам клинок легко дістається з рукоятки, коли в цьому виникає необхідність. Його довжина дорівнює 42 мм. Лезо рівне заточене і дуже якісно відполірована. Незважаючи на невеликі розміри, Ganzo G624M може виявитися дуже корисним в самих різних ситуаціях на природі або в місті. Особливості: добре заточене лезо; відполірована сталь; розмір клинка — 42 мм; рукоятка з пластику; оригінальний дизайн; чотири варіанти кольору; зручна конструкція. ]]>
+                </description>
+                <warranty>1 рік</warranty>
+                <vendor>Ganzo</vendor>
+                <param name="Вид ножа">кишеньковий</param>
+                <param name="Производитель">Ganzo</param>
+                <param name="Гарантия">1 рік</param>
+                <param name="Длина клинка">42 мм</param>
+                <param name="Общая длина">102 мм</param>
+                <param name="Цвет клинка">хром</param>
+                <param name="Цвет рукоятки">чорний, &quot;червоний, бордовий&quot;, зелений, &quot;синій, блакитний&quot;</param>
+                <param name="Тип замка">Liner Lock</param>
+                <param name="Тип заточки">прямий</param>
+                <param name="Тип ножа">складаний</param>
+                <param name="Типы складных ножей">з фіксацією</param>
+            </offer>
+            <offer id="44140" available="true">
+                <url>https://atlantmarket.com.ua/multitul-multi-tool-ganzo-g204/</url>
+                <price>545</price>
+                <currencyId>UAH</currencyId>
+                <barcode>G204</barcode>
+                <portal_category_id>14200394</portal_category_id>
+                <categoryId>1906</categoryId>
+                <picture>https://atlantmarket.com.ua/upload/iblock/768/52758.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/585/52757.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/3e8/33988.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/8e5/4.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/0c8/5.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/41f/8.jpg</picture>
+                <name>Мультитул Multi Tool Ganzo G204</name>
+                <description>
+                    <![CDATA[ Опис мультитула Ganzo G204: Модель Ganzo G204 оснащена всіма необхідними інструментами, щоб допомогти впоратися з неполадками туристичного спорядження, велосипеда або навіть автомобіля. Допомога цього мультитула може знадобитися і в ході проведення домашнього ремонту. Це повнорозмірний інструмент, який зручно тримати в долоні. Його центральний інструмент — це потужні плоскогубці з кусачками і захопленням для гайок або інших круглих предметів. Плоскогубці пружні, тому, коли інструмент готовий до роботи, вони завжди будуть залишатися у відкритому стані. В іншому випадку, плоскогубці забираються всередину рукояток. Також в рукоятках розміщені додаткові інструменти, які знадобляться і для ремонту, і для виконання інших необхідних під час відпочинку на природі робіт. Це ножі з прямимо і серрейторным лезом, невеликі пружні ножиці, пилка, шило, викрутка з прямимо шліцом, відкривачка для консервів. Крім того, в окремому гумовому блістері розміщені додаткові біти для викрутки: п'ять шестигранних, по три прямі і хрестоподібні, а також — магнітний перехідник. Всі інструменти мультитула виготовлені з сталі 440С. Це нержавіючий сплав, вміст вуглецю в якому все ж досить високо, щоб метал був твердим. Рукоятки мультитула теж зроблені з металу і покриті чорною фарбою, що не стирається з часом. Поверхня накладок прикрашена за допомогою круглих отворів, які, одночасно, допомагають знизити вагу інструменту. Ganzo G204 переважати 253 грама. Зберігається мультитул в жорсткому нейлоновому чохлі, що застібається на кнопку. Там же, в окремій кишеньці, і розміщується набір біт. Особливості: кількість інструментів — 24; матеріал — сталь 440С; комплект змінних біт; нейлоновий чохол в комплекті; повнорозмірний формат; колір інструментів — метал; колір ручки — чорний; мультитул переважати 253 грама. Гарантія: Для моделі мультитула Ganzo G204 гарантія дається на один рік. ]]>
+                </description>
+                <warranty>1 рік</warranty>
+                <vendor>Ganzo</vendor>
+                <param name="Вес">253 г</param>
+                <param name="Производитель">Ganzo</param>
+                <param name="Гарантия">1 рік</param>
+                <param name="Количество функций">ножі з прямим і серрейторним лезом, невеликі підпружинені ножиці, пила,
+                    шило, викрутка з прямим шліцом, відкривачка для консервів
+                </param>
+                <param name="Цвет мультитула">чорний</param>
+                <param name="Размер в раскрытом состоянии">165 мм</param>
+                <param name="Размер в сложенном состоянии">105 мм</param>
+                <param name="Тип мультитула">повнорозмірний</param>
+                <param name="Чехол / ножны">Є</param>
+            </offer>
+            <offer id="44141" available="true">
+                <url>https://atlantmarket.com.ua/multitul-multi-tool-ganzo-g103/</url>
+                <price>489</price>
+                <currencyId>UAH</currencyId>
+                <barcode>G103</barcode>
+                <portal_category_id>14200394</portal_category_id>
+                <categoryId>1906</categoryId>
+                <picture>https://atlantmarket.com.ua/upload/iblock/a3d/Ganzo-G103 (1).gif</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/59f/11997.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/a35/11996.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/466/11998.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/cde/11999.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/531/12000.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/baf/12001.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/8ba/12002.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/3d0/12003.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/38d/33962.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/b98/33963.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/1fa/33964.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/699/33965.jpg</picture>
+                <name>Мультитул Multi Tool Ganzo G103</name>
+                <description>
+                    <![CDATA[ Опис мультитула Ganzo G103: Мультитул Ganzo G103 цілком виправдовує звання «кишеньковою майстерні». При вазі 250 грам і довжиною в складеному вигляді всього 10,5 см, він має 22 різними функціями. Цей інструмент допоможе вам усунути несправності велосипеда, туристичного спорядження, спорядження мисливця або рибалки. Так і в домашньому побуті він знадобиться не один раз. Одне з основних переваг такого мультитула — наявність повноцінних плоскогубців з потужними пружними губками, вбудованими кусачки для дроту і ребристим захопленням для предметів круглої форми. Крім того, в порожніх зсередини рукоятках мультитула розміщуються відкривачка для пляшок, дві плоскі і хрестоподібна викрутка, шило (його можна використовувати в якості маленького ножа), лінійка, на зворотному боці якої — напилок, два клинка (гладкий і з серрейторной заточкою). Також є тримач для біт з квадратним перетином. Самі ж біти додаються в окремому органайзері: 8 змінних насадок і перехідник. Хоча мультитул і зроблений з нержавіючої сталі, на інструменти нанесено стійке чорне покриття, яке відіграє роль додаткового бар'єр єру для корозії. До того ж, завдяки цьому покриттю, мультитул — матовий і виглядає дуже стильно. Для зберігання мультитула разом з бітами, передбачений тканинний чохол Особливості: повнорозмірна конструкція; плоскогубці з вбудованими кусачками; 22 функції; зручний чохол на липучці; комплект з восьми змінних біт; мультитул переважати 250 грамів; розмір складеного інструменту — 10,5 див. Гарантія: Мультитули Ganzo G103 продаються з гарантією виробників терміном на один рік. ]]>
+                </description>
+                <warranty>1 рік</warranty>
+                <vendor>Ganzo</vendor>
+                <param name="Вес">248 г</param>
+                <param name="Производитель">Ganzo</param>
+                <param name="Гарантия">1 рік</param>
+                <param name="Количество функций">пасатижі, кусачки, маленька викрутка плоска, плоска викрутка, ніж,
+                    серрейтор, шило, лінійка, пилка, відкривачка для пляшок, консервний ніж, тримач біт, 9 змінних
+                    насадок в комплекті
+                </param>
+                <param name="Цвет мультитула">чорний</param>
+                <param name="Размер в раскрытом состоянии">193 мм</param>
+                <param name="Размер в сложенном состоянии">105 мм</param>
+                <param name="Тип мультитула">повнорозмірний</param>
+                <param name="Чехол / ножны">Є</param>
+            </offer>
+            <offer id="44142">
+                <url>https://atlantmarket.com.ua/nizh-skladniy-ganzo-g7361-wd1-derevo/</url>
+                <price>650</price>
+                <currencyId>UAH</currencyId>
+                <barcode>G7361-WD1</barcode>
+                <portal_category_id>181010</portal_category_id>
+                <categoryId>1920</categoryId>
+                <picture>https://atlantmarket.com.ua/upload/iblock/7d4/13479.JPG.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/401/20450.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/504/20449.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/5bc/20448.jpg</picture>
+                <name>Ніж складний Ganzo G7361-WD1 дерево</name>
+                <description>
+                    <![CDATA[ Опис ножа Ganzo G7361-WD1: Ganzo G7361 WD1 виконаний за всіма правилами хорошого універсального ножа. Завдяки тому, що модель складна, використовувати його буде зручно і в місті, і за його межами. Так що цей ніж зможе стати вашим практичним супутником у будь-яких ситуаціях. Його лезо має рівну кромку, яку легко буде підточити навіть будучи за містом. Воно зроблено з хорошою нержавіючої сталі, яка не сприйнятлива і до інших видів корозії. Це марка 440С, відрізняється хорошим балансом твердості і стійкості до іржі, а також доступною вартістю. Заточити ніж з цього металу буде не складно, але заточку він буде тримати дійсно довго. Довжина клинка в цій моделі дорівнює 8 див. Цього достатня, щоб різати продукти харчування і виконувати різні види робіт. Примітно, що рукоятка Ganzo G7361-WD1 зроблена з дерева. Це нетипове для компанії Ganzo рішення, яке дає класичну ручку ножа з натурального матеріалу. Достоїнства дерева полягають у тому, що воно приємне на дотик не залежно від погоди і температури навколишнього середовища, міцне, завдяки особливій обробці, не вбирає воду. Для зручності користувача на рукоятці розміщена кліпса, щоб ніж можна було закріпити на ремені і невеликий отвір під темляк. Тут же знаходиться кнопка замку, який робить можливим відкриття ножа однією вільною рукою. У даній моделі використовується замок конструкції Auto Lock. Особливості: нержавіючий клинок із сталі 440С; розмір леза становить 80 мм; гладко заточена кромка леза; форма леза — фінка; твердість сталі дорівнює 58 HRC; для рукоятки використовується дерево; вбудований замок Auto Lock; ніж переважати 130 грам. Гарантія: Для ножів Ganzo G7361-WD1 дається період гарантії строком на один рік з дати їх придбання. ]]>
+                </description>
+                <warranty>1 рік</warranty>
+                <vendor>Ganzo</vendor>
+                <param name="Вес">133 г</param>
+                <param name="Вид ножа">кишеньковий, викидний</param>
+                <param name="Производитель">Ganzo</param>
+                <param name="Гарантия">1 рік</param>
+                <param name="Длина клинка">80 мм</param>
+                <param name="Общая длина">195 мм</param>
+                <param name="Цвет клинка">хром</param>
+                <param name="Цвет рукоятки">коричневий, бежевий</param>
+                <param name="Марка стали">440C</param>
+                <param name="Материал корпуса">дерево</param>
+                <param name="Твердость клинка">58-60 HRC</param>
+                <param name="Тип замка">Auto lock</param>
+                <param name="Тип заточки">прямий</param>
+                <param name="Тип ножа">складаний</param>
+                <param name="Типы складных ножей">викидні, автоматичні, з фіксацією</param>
+                <param name="Толщина клинка">3 мм</param>
+                <param name="Форма клинка">drop-point</param>
+            </offer>
+            <offer id="44143">
+                <url>https://atlantmarket.com.ua/nizh-skladniy-ganzo-g7503-cf/</url>
+                <price>890</price>
+                <currencyId>UAH</currencyId>
+                <barcode>G7503-CF</barcode>
+                <portal_category_id>181010</portal_category_id>
+                <categoryId>1920</categoryId>
+                <picture>https://atlantmarket.com.ua/upload/iblock/17e/23973.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/0c5/23975.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/08b/23976.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/cbb/23977.jpg</picture>
+                <name>Ніж складний Ganzo G7503-CF</name>
+                <description>
+                    <![CDATA[ Опис ножа Ganzo G7503-CF: Для бажаючих придбати практичну модель складного ножа, компанія Ganzo презентувала модель G7503-CF. Це якісна модель, яка володіє тактичними влас ]]>
+                    <![CDATA[ тивостями. Ніж виготовляється зі сталі 440С. Дана марка відноситься до числа нержавіючих, що дозволяє вільно використовувати ніж на риболовлі або в інших умовах з підвищеною вологістю. Важливо і те, що така сталь довгий час зберігає заточку, щоб догляд за клинком зводився до мінімуму. Що стосується безпосередньо леза Ganzo G7503-CF, вона зроблена у формі clip point, має довжину 89 мм і заточене звичайним способом — гладко. Клинок зроблений чорним, щоб метал не відображав промені від сонця або ліхтарів. Це дуже стійке покриття, яке не стирається з часом. Деталі рукоятки виготовляються з вуглепластика. Це матеріал з композитною структурою, яка у змозі конкурувати зі сталлю по міцності, але при цьому набагато легше металу. Накладки пригвинчуються до бази з обох сторін. Крім того, до однієї з накладок прикручена металева кліпса, яка дозволяє закріпити ніж під час перенесення. У моделі Ganzo G7503-CF ручка зроблена чорної. Виробники передбачили і можливість кріплення до ножа ремінця для носіння на зап'ясті. Для цих цілей, у рукоятці зроблено отвір. Крім того, ніж забезпечений замком для регулювання положення леза. Це Axis, належить до числа штифтових замків. Його конструкція дуже надійна і розрахована на тривалу службу. Єдине, за чим доведеться стежити власникам ножа з таким замком, це його чистота. Втім великої праці це не складе. Особливості: складаний ніж; 21 см по довжині у відкритому вигляді; довжина леза ножа - 8,9 см; гладка заточка кромки; лезо чорного кольору; клинок виготовлений із сталі 440С; положення леза регулює замок Axis; для рукоятки вуглепластик використовується; дана модель важить 130 грам. Гарантія: Модель Ganzo G7503-CF продається з гарантією на 1 рік з дати придбання ножа. ]]>
+                </description>
+                <warranty>1 рік</warranty>
+                <vendor>Ganzo</vendor>
+                <param name="Вес">130 г</param>
+                <param name="Вид ножа">кишеньковий</param>
+                <param name="Производитель">Ganzo</param>
+                <param name="Гарантия">1 рік</param>
+                <param name="Длина клинка">89 мм</param>
+                <param name="Общая длина">210 мм</param>
+                <param name="Цвет клинка">сірий</param>
+                <param name="Цвет рукоятки">чорний</param>
+                <param name="Марка стали">440C</param>
+                <param name="Материал корпуса">карбон</param>
+                <param name="Твердость клинка">58 HRC</param>
+                <param name="Тип замка">Axis Lock</param>
+                <param name="Тип заточки">прямий</param>
+                <param name="Тип ножа">складаний</param>
+                <param name="Типы складных ножей">викидні, напівавтоматичні, з фіксацією</param>
+                <param name="Толщина клинка">3.3 мм</param>
+                <param name="Форма клинка">clip-point</param>
+            </offer>
+            <offer id="44144">
+                <url>https://atlantmarket.com.ua/nizh-skladniy-ganzo-g7511-bk/</url>
+                <price>740</price>
+                <currencyId>UAH</currencyId>
+                <barcode>G7511-BK</barcode>
+                <portal_category_id>181010</portal_category_id>
+                <categoryId>1920</categoryId>
+                <picture>https://atlantmarket.com.ua/upload/iblock/6c1/23910.900x0.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/deb/23916.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/0a5/23911.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/6ca/23912.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/7b6/23913.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/92e/23914.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/619/23915.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/0ea/23917.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/cae/23918.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/e21/23919.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/27a/23932.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/55d/23933.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/455/23934.jpg</picture>
+                <picture>https://atlantmarket.com.ua/upload/iblock/88f/23935.jpg</picture>
+                <name>Ніж складний Ganzo G7511-BK</name>
+                <description>
+                    <![CDATA[ Опис ножа Ganzo G7511: Ganzo G7511 — це зручний у використанні складаний ніж, який рекомендується для всіх людей, які відпочивають активно. Він підійде рибалкам, туристам, любителям поїздок на полювання. Такий ніж легко поміщається в складеному стані в кишеню, а у відкритому стає зручним інструментом як для приготування їжі, так і для виконання безлічі інших видів робіт. Його лезо зроблене нержавіючим, оскільки для нього використовується сталь 440С. Вона відшліфована методом сатинування, а сам клинок — рівне заточений. Форма леза ножа у Ganzo G7511 — clip-point. Його довжина — 89 мм. Рукоятка моделі Ganzo G7511 зроблена не менш якісним, ніж його клинок. Вона сформована за допомогою двох накладок з G10. Цей матеріал міцніше звичайного пластику, адже він є композитним і створений шляхом об'єднання скловолокна з однієї з епоксидних смол. Щоб ніж надійніше лежав у долоні, накладки спеціально зроблені текстурованими. На одній з них є кліпса, щоб ніж можна було закріпити на поясі. Колірна гамма даної моделі включає три різновиди: ножі з оранжевою ручкою, чорною, темно-зеленою. Ще одна особливість рукоятки в даній моделі — це невеликі світонакоплювальні вставки, які зроблені з використанням люмінесцентної фарби. Вони дозволяють легко помітити ніж навіть у повній темряві. Піклуючись про безпеку користувачів, виробники забезпечили ніж Ganzo G7511 замком Liner Lock. Будучи одним з різновидів лінійних фіксаторів, він дійсно надійно утримує лезо відкритим і володіє завидною довговічність. Догляд за таким замком, як і за всіма іншими деталями ніж, потрібен буде самий елементарний. Зручно і те, що важить ніж лише 147 грам, а тому носити його з собою буде зовсім не важко. Особливості: кишеньковий ніж; лезо утримується замком Liner; нержавіючий клинок виготовляється зі сталі 440С; повний розмір леза - 8,9 см; геометрія клинка - Clip-point; використовується гладка заточка; шліфування леза — сатинування; довжина ножа повністю - 21 см; матеріал накладок - G10; ніж важить 147 грам. Гарантія: Гарантія на ножі Ganzo G7511 оформляється кожному покупцеві на один рік. ]]>
+                </description>
+                <warranty>1 рік</warranty>
+                <vendor>Ganzo</vendor>
+                <param name="Вес">147 г</param>
+                <param name="Вид ножа">кишеньковий, викидний</param>
+                <param name="Производитель">Ganzo</param>
+                <param name="Гарантия">1 рік</param>
+                <param name="Длина клинка">89 мм</param>
+                <param name="Общая длина">210 мм</param>
+                <param name="Цвет клинка">сірий</param>
+                <param name="Цвет рукоятки">чорний, зелений</param>
+                <param name="Марка стали">440C</param>
+                <param name="Материал корпуса">G10</param>
+                <param name="Твердость клинка">58 HRC</param>
+                <param name="Тип замка">Liner Lock</param>
+                <param name="Тип заточки">прямий</param>
+                <param name="Тип ножа">складаний</param>
+                <param name="Типы складных ножей">викидні, напівавтоматичні, з фіксацією</param>
+                <param name="Толщина клинка">3.3 мм</param>
+                <param name="Форма клинка">clip-point</param>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>

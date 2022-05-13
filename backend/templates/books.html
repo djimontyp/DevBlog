@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+{% import 'macroses/book_card.html' as macros %}
+
+{% block title %}
+    My books
+{% endblock %}
+
+{% block content %}
+    {% for book in books %}
+        {{ macros.book_card(book) }}
+    {% endfor %}
+{% endblock %}

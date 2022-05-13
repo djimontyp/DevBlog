@@ -1,0 +1,120 @@
+
+
+body h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.text-block {
+    display: flex;
+    flex-direction: column;
+}
+
+#text-block-divs {
+    display: flex;
+    flex-direction: row;
+}
+
+#text-block-div-1 {
+    margin-left: 70px;
+    margin-right: 15px;
+    min-width: 400px;
+}
+
+#text-block-div-2 {
+    display: flex;
+    flex-direction: row;
+    margin-right: 70px;
+    margin-left: 15px;
+    max-width: 25%;
+    min-width: 200px;
+}
+
+#about {
+    top: 20px;
+    background-color: #4CAF50;
+}
+
+.content-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1 0 auto;
+}
+
+.paragraph {
+    display: flex;
+    background-color: white;
+    border-radius: 15px;
+    /*margin-left: 5%;*/
+    /*margin-right: 30%;*/
+    padding: 15px;
+    box-shadow: 0 0 4px 0 #000;
+}
+
+.categories-list ul {
+    /*margin-left: 15px;*/
+    padding: 3px 25px 3px 20px;
+    font-size: 20px;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.product-list {
+    flex: 1 200px auto;
+    background-color: rgba(28, 226, 196, 0.47);
+    width: 100%;
+    display: flex;
+    /*margin-left: 200px;*/
+}
+
+.product-card-small {
+    font-family: 'Montserrat', sans-serif;
+    width: 250px;
+    height: min-content;
+    background-color: rgba(179, 179, 179, 0.49);
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 5px;
+}
+
+.product-card-image {
+    display: flex;
+    border-radius: 10px;
+    background-color: white;
+    align-content: flex-end;
+    justify-content: center;
+}
+
+.product-card-image img {
+    margin: 30px 5px 5px 5px;
+    width: 90%;
+}
+
+.product-card-like button {
+
+}
+
+.parser {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+.parser-button {
+    margin-inline: 5px;
+}
+
+.parser #upload-file {
+    cursor: pointer;
+}
+
+.header-icons {
+    height: 30px;
+    border-radius: 15%;
+
+}
