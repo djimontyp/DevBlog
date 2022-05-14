@@ -1,3 +1,4 @@
+import json
 import xml.etree.ElementTree as ElementTree
 from pathlib import Path
 from typing import List
@@ -10,7 +11,7 @@ from starlette.middleware.cors import CORSMiddleware
 from config import get_settings
 from schemas.atlantmarket import Catalog
 from schemas.schemas import Book
-from schemas.spotify import UserTracks
+# from schemas.spotify import UserTracks
 from spotify import client
 
 origins = ['*']
@@ -47,17 +48,31 @@ async def books():
 
 
 @app.get('/catalogs/{id}', response_model=Catalog, name='parsers')
-async def item(id: str) -> Catalog:
+async def item(id: str) -> Catalog:  # noqa
     datas = Path('test_data')
     file = datas.joinpath('data_test.xml')
     tree = ElementTree.parse(file).getroot()
     return Catalog.from_orm(tree)
 
 
-@app.get('/tracks', response_model=UserTracks, name='spotify_tracks')
-def show_tracks():
-    tracks = client.current_user_saved_tracks(limit=50)
-    return UserTracks.parse_obj(tracks)
+@app.get('/download-tracks', name='spotify_tracks')
+def download_tracks():
+    func = client.current_user_saved_tracks
+    offset = 0
+
+    def save(page: int):
+        data = func(limit=10, offset=page)
+        data_dir = Path('data')
+        data_dir.mkdir(exist_ok=True, parents=True)
+        file = data_dir.joinpath(f'{data.get("offset")}.json')
+        with file.open('w') as f:
+            f.write(json.dumps(data))
+        if data.get('next'):
+            save(page+10)
+
+    save(offset)
+
+    # return UserTracks.parse_obj(tracks)
 
 
 @app.get('/tracks-raw', name='spotify_tracks_raw')

@@ -30,10 +30,10 @@ class UserTrack(BaseModel):
 
 
 class UserTracks(BaseModel):
-    href: Optional[HttpUrl] = None
-    items: List[UserTrack] = []
-    limit: Optional[int] = None
-    next: Optional[HttpUrl] = None
-    offset: Optional[int] = None
+    href: HttpUrl
     previous: Optional[HttpUrl] = None
-    total: Optional[int] = None
+    next: Optional[HttpUrl] = None
+    items: List[UserTrack] = []
+    limit: int
+    offset: int
+    total: int
