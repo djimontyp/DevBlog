@@ -5,27 +5,19 @@ from typing import List
 
 from fastapi import FastAPI
 from fastapi.responses import RedirectResponse
-from sqlmodel import create_engine, SQLModel
 from starlette.middleware.cors import CORSMiddleware
 
-from config import get_settings
+from config import dev_settings
 from schemas.atlantmarket import Catalog
 from schemas.schemas import Book
-# from schemas.spotify import UserTracks
 from spotify import client
 
 origins = ['*']
 
-settings = get_settings()
-
-engine = create_engine(settings.DB_URL, echo=True)
-
-SQLModel.metadata.create_all(engine)
-
 app = FastAPI(
-    debug=settings.DEBUG,
-    title=settings.APP_NAME,
-    contact={"email": settings.ADMIN_EMAIL}
+    debug=dev_settings.DEBUG,
+    title=dev_settings.APP_NAME,
+    contact={"email": dev_settings.ADMIN_EMAIL}
 )
 
 app.add_middleware(
@@ -68,7 +60,7 @@ def download_tracks():
         with file.open('w') as f:
             f.write(json.dumps(data))
         if data.get('next'):
-            save(page+10)
+            save(page + 10)
 
     save(offset)
 
