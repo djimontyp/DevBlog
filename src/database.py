@@ -2,7 +2,7 @@ from contextlib import contextmanager
 
 from sqlmodel import SQLModel, create_engine, Session
 
-from settings import config
+from settings_app import config
 from schemas import *  # noqa Define schemas in SQLModel
 
 

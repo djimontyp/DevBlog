@@ -1,6 +1,6 @@
 from faker import Faker
 
-from settings import BaseConfig, get_settings
+from settings_app import BaseConfig, get_settings
 
 fake = Faker()
 

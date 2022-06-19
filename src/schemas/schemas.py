@@ -1,5 +1,6 @@
 from typing import List
 
+from loguru import logger
 from pydantic import BaseModel, conint, validator
 
 from utils import image_url
@@ -17,6 +18,7 @@ class Book(BaseModel):
 
     @classmethod
     def all(cls) -> List["Book"]:
+        logger.info("Load books all.")
         return [
             cls(
                 title="Чистый Python. Тонкости программирования для профи.",
