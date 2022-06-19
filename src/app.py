@@ -5,15 +5,19 @@ from typing import List
 
 from fastapi import FastAPI
 from fastapi.responses import RedirectResponse
+from loguru import logger as log, logger
 from starlette.middleware.cors import CORSMiddleware
 from starlette.staticfiles import StaticFiles
 
-from settings import config
 from schemas.atlantmarket import Catalog
 from schemas.schemas import Book
+from settings_app import config
+from settings_log import setup_logger_from_settings
 from spotify import client
 
 origins = ['*']
+setup_logger_from_settings()
+
 
 app = FastAPI(
     debug=config.debug,
@@ -32,6 +36,7 @@ app.add_middleware(
 
 @app.get('/', name='homepage', include_in_schema=False)
 async def homepage():
+    logger.debug("hi")
     return RedirectResponse('/docs')
 
 
