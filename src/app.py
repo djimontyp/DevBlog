@@ -6,8 +6,9 @@ from typing import List
 from fastapi import FastAPI
 from fastapi.responses import RedirectResponse
 from starlette.middleware.cors import CORSMiddleware
+from starlette.staticfiles import StaticFiles
 
-from config import dev_settings
+from settings import config
 from schemas.atlantmarket import Catalog
 from schemas.schemas import Book
 from spotify import client
@@ -15,11 +16,11 @@ from spotify import client
 origins = ['*']
 
 app = FastAPI(
-    debug=dev_settings.DEBUG,
-    title=dev_settings.APP_NAME,
-    contact={"email": dev_settings.ADMIN_EMAIL}
+    debug=config.debug,
+    title=config.app_name,
+    contact=config.contact.dict()
 )
-
+app.mount("/static", StaticFiles(directory="static"), name="static")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=origins,

@@ -1,7 +1,7 @@
 from spotipy import Spotify
 from spotipy.oauth2 import SpotifyOAuth
 
-from db import db
+from database import db
 from schemas import CountryCode
 
 auth_manager = SpotifyOAuth(

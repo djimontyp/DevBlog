@@ -3,10 +3,10 @@ version: '3.1'
 services:
   portfolio:
     build: .
-    container_name: backend
+    container_name: src
     command: uvicorn main:app --reload --host=0.0.0.0 --port=11111
     volumes:
-    - ./backend:/backend
+    - ./src:/src
     restart: on-failure
     networks:
       - default
@@ -14,4 +14,4 @@ services:
       - "11111:11111"
 
 volumes:
-  backend:
+  src:

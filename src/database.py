@@ -2,13 +2,13 @@ from contextlib import contextmanager
 
 from sqlmodel import SQLModel, create_engine, Session
 
-from config import dev_settings
+from settings import config
 from schemas import *  # noqa Define schemas in SQLModel
 
 
 class DataBase:
-    def __init__(self, settings):
-        self.engine = create_engine(settings.DB_URL, echo=True)
+    def __init__(self, db_url):
+        self.engine = create_engine(db_url, echo=True)
 
     @contextmanager
     def get_session(self):
@@ -28,4 +28,4 @@ class DataBase:
         return f"{self.engine}"
 
 
-db = DataBase(dev_settings)
+db = DataBase(config.db_url)
